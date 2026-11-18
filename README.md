@@ -112,23 +112,6 @@ Respostas: `200` processado, `401` assinatura inválida, `404` encomenda não en
 
 ## Licença
 
-PaySuite Gateway for Magento 2
-
-Copyright (c) 2026 Hypertech, LDA. All rights reserved.
-
-This software is proprietary. Unauthorized copying, modification,
-distribution, sublicensing or resale of this software, in whole or in
-part, via any medium, is strictly prohibited without the prior written
-permission of Hypertech, LDA.
-
-Permission is granted to merchants with an active PaySuite account to
-install and use this software on their own Magento stores solely to
-process payments through the PaySuite service.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL HYPERTECH, LDA BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
-
-Contact: https://paysuite.tech
+PaySuite for Magento 2 is proprietary software.
+All rights reserved by Hypertech, LDA.
+See the LICENSE file for licensing terms.
