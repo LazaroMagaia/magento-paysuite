@@ -1,0 +1,21 @@
+{
+    "name": "paysuite/module-gateway",
+    "description": "PaySuite payment gateway for Magento 2 (M-Pesa, eMola, Card and more in Mozambique)",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1",
+        "magento/framework": "^103.0",
+        "magento/module-payment": "*",
+        "magento/module-sales": "*",
+        "magento/module-checkout": "*",
+        "magento/module-store": "*"
+    },
+    "autoload": {
+        "files": ["registration.php"],
+        "psr-4": {
+            "PaySuite\\Gateway\\": ""
+        }
+    }
+}
